@@ -24,4 +24,4 @@ succeed
 
 
 10.24
-left 0 day
+0 day left
